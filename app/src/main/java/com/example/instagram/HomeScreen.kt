@@ -54,8 +54,8 @@ import com.example.instagram.ui.theme.InstagramTheme
 fun HomeScreen(){
     Scaffold(
         modifier= Modifier.fillMaxSize(),
-        containerColor = Color.Black,
-        contentColor = Color.White,
+        containerColor = Color.Redgi,
+        contentColor = Color.Black,
         topBar = {
             InstagramTopBar()
         },
